@@ -25,7 +25,7 @@
 
 4.安装插件
 
-    curl -O https://github.com/femn2014/vim_ide_python3/.vimrc
+    curl -o .vimrc https://file.femnyy.com/file/.vimrc
     mv .vimrc ~/.vimrc
     sudo vim 
     :PlugInstall 
